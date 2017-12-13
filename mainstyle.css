@@ -1,0 +1,143 @@
+@charset "UTF-8";
+body{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	background-color: white;
+	
+}
+.wrapper{
+	max-width: 960;
+	margin: auto;
+	background-color: gray;
+	padding: 32px;
+	opacity: .8;
+	border: thin double #000000;
+}
+header{
+	background-color: red;
+	padding: 4px;
+	height: 150;
+	opacity: .8;
+	
+
+}
+header h1{
+	text-transform: uppercase;
+	text-align: center;
+	color: white;
+	line-height: 50px;
+}
+header h2{
+	font-variant: small-caps;
+	text-align: center;
+	color: white;
+	
+}
+.main_menu{
+	padding-top: 10px;
+	padding-right: 300px;
+	padding-left: 0;
+	padding-bottom: 10px;
+	text_align: center;
+	line-height: 32px;
+	background-color: black;
+	margin-right: 0px;
+	word-spacing: 113px;
+}
+ul.main_menu{
+	margin-top: 15px;
+}
+.main_menu li{
+	display: inline;
+	padding: 0 16px 0 10px;
+	font-size: 16px;
+}
+
+
+
+
+.main_menu{text-decoration:none;
+            color: white;
+	padding: 8px;
+	font-variant: small-caps;
+	
+
+           }
+.text1{
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: 22px;
+	font-variant: small-caps;
+	border-left: thin double black;
+	border-right: thin double #000000;
+	border-bottom: thin;
+	border-top: thin double black;
+}
+.mainimg{
+	border-left: thin double black;
+	border-right: thin double #000000;
+	border-bottom: thin double black;
+	border-top: thin;
+}
+
+.heading2
+{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 20px;
+	text-decoration: underline;
+	padding-top: 10px;
+	
+	
+}
+.heading3{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 20px;
+	text-decoration: underline;
+	
+}
+	
+.heading4{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 20px;
+	text-decoration: underline;
+	padding-top: 10px;
+	
+	
+}
+li{
+	padding-top: 10px;
+	
+}
+.heading5{
+	font-size: 20px;
+	text-decoration: underline;
+	padding-top: 10px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	
+}
+.heading6{
+	font-size: 20px;
+	text-decoration: underline;
+	padding-top: 10px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	text-align: center;
+	
+}
+.price{
+	float:center;
+}
+.price2{
+	float: right;
+	
+}
+.image3 img{
+	float: right;
+	
+}
+.image4{
+	float: right;
+}
+.mainimg{
+	float: left;
+}
+footer{
+	clear:left
+}
